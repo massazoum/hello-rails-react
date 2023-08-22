@@ -9,5 +9,4 @@ Rails.application.routes.draw do
 
   root 'pages#index'
   resources :messages, only: [:index]
-  # root 'home#index'
 end
