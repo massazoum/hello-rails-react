@@ -23,7 +23,7 @@
 
 # 📖 Blog App <a name="about-project"></a>
 
-An excercice
+"Hello world" project is an app ceated with Webpack that allows to selects a random greeting 
 
 ## 🛠️ Built With <a name="built-with"></a>
 
@@ -35,8 +35,6 @@ An excercice
 
 ### Key Features <a name="key-features"></a>
 
-- [ ] **A login page**
-- [ ] **A registration page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,19 +71,20 @@ bundle install
 
 To run the project, execute the following command:
 ```
+rails db:create
+```
+
+```
+rails db:migrate
+```
+
+```
 rails server
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Deployment
-
-  The changes will be deployed to the website through our standard deployment process.
-- [Budget](https://budget-ixbx.onrender.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- AUTHORS -->
+- it has not yet been deployed
 
 ## 👥 Authors <a name="authors"></a>
 
