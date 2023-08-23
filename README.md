@@ -128,7 +128,6 @@ If you like this project please give it a 5⭐!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 We would like to thank [Microverse](https://bit.ly/MicroverseTN) .
-(https://www.behance.net/gregoirevella)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
